@@ -3,7 +3,7 @@ import IndividualUser from "./IndividualUser";
 import { Table, TableHead } from "../assets/StyledComponents/Components";
 import { useEffect } from "react";
 import { getUsers } from "../redux/store/usersSlice";
-import { useUsers } from "../hooks/useusers";
+import { useUsers } from "../hooks/useUsers";
 
 function TableCrud() {
     const users = useSelector(state => state.user)
