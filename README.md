@@ -3,7 +3,7 @@
 ## <i align="center" style="font-size:2rem">🤔 CRUD DE USUARIOS CON REACT QUERY</i>
 
 
-En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  **HTML,CSS,JavaScript,React,SASS** ,para el manejo de estados asincronos **React Query** ,para el manejo de estados **Redux** y herramientas extras como **JSON-SERVER, AXIOS**
+En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  **HTML,CSS,JavaScript,React,SASS** ,para el manejo de estados asincronos **React Query** ,para el manejo de estados **Redux** y herramientas extras como **JSON-SERVER, AXIOS**.
 
  _Este proyecto fue construido con el proposito de practicar Reduyx y React Query_
 
